@@ -7,7 +7,7 @@
 
 -   🌱 I’m currently learning **React and Data Structures.**
 
--   📝 I regularly write articles on [https://medium.com/@adrian.td96](https://medium.com/@adrian.td96)
+-   📝 I regularly write articles on [Medium](https://medium.com/@adrian.td96)
 
 -   💬 Ask me about **Python, ML, JavaScript and Web Development**
 

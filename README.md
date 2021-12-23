@@ -16,10 +16,10 @@
 ### 📕 Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [How to Contribute to an Open Source &lpar;and Why You Should Do It!&rpar;](https://medium.com/@adrian.td96/how-to-contribute-to-an-open-source-and-why-you-should-do-it-1c0b4229b99f?source=rss-224bb12b307b------2)
+- [Making a CLI Application in Python](https://medium.com/@adrian.td96/making-a-cli-application-in-python-a9c7978db54e?source=rss-224bb12b307b------2)
+- [How to Pass Data Between React Components](https://medium.com/@adrian.td96/how-to-pass-data-between-react-components-4eecae32e194?source=rss-224bb12b307b------2)
+- [React JS for Absolute Beginners](https://medium.com/@adrian.td96/react-js-for-absolute-beginners-308b97696c1a?source=rss-224bb12b307b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me!</h3>

@@ -16,10 +16,10 @@
 ### 📕 Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OOP for Dummies](https://medium.com/@adrian.td96/oop-for-dummies-3e6007c8e7f4?source=rss-224bb12b307b------2)
 - [How to Contribute to an Open Source &lpar;and Why You Should Do It!&rpar;](https://medium.com/@adrian.td96/how-to-contribute-to-an-open-source-and-why-you-should-do-it-1c0b4229b99f?source=rss-224bb12b307b------2)
 - [Making a CLI Application in Python](https://medium.com/@adrian.td96/making-a-cli-application-in-python-a9c7978db54e?source=rss-224bb12b307b------2)
 - [How to Pass Data Between React Components](https://medium.com/@adrian.td96/how-to-pass-data-between-react-components-4eecae32e194?source=rss-224bb12b307b------2)
-- [React JS for Absolute Beginners](https://medium.com/@adrian.td96/react-js-for-absolute-beginners-308b97696c1a?source=rss-224bb12b307b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me!</h3>

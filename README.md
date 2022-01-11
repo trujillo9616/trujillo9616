@@ -16,10 +16,10 @@
 ### 📕 Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is “Tutorial Hell”?](https://medium.com/@adrian.td96/what-is-tutorial-hell-d24c1bdb279f?source=rss-224bb12b307b------2)
 - [SOLID Principles for Maintainable Code](https://medium.com/@adrian.td96/solid-principles-for-maintainable-code-64ba0e668bb1?source=rss-224bb12b307b------2)
 - [OOP for Dummies](https://medium.com/@adrian.td96/oop-for-dummies-3e6007c8e7f4?source=rss-224bb12b307b------2)
 - [How to Contribute to an Open Source &lpar;and Why You Should Do It!&rpar;](https://medium.com/@adrian.td96/how-to-contribute-to-an-open-source-and-why-you-should-do-it-1c0b4229b99f?source=rss-224bb12b307b------2)
-- [Making a CLI Application in Python](https://medium.com/@adrian.td96/making-a-cli-application-in-python-a9c7978db54e?source=rss-224bb12b307b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me!</h3>

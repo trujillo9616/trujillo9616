@@ -16,10 +16,10 @@
 ### 📕 Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Coding Interview: Book Review](https://medium.com/@adrian.td96/cracking-the-coding-interview-book-review-1a9f67df9d68?source=rss-224bb12b307b------2)
+- [What I’ve Learned After One Month of Doing Leetcode / HackerRank Problems](https://medium.com/@adrian.td96/what-ive-learned-after-one-month-of-doing-leetcode-hackerrank-problems-104a21259e16?source=rss-224bb12b307b------2)
 - [How to Prepare for Conducting a Coding/TInterview](https://medium.com/@adrian.td96/how-to-prepare-for-conducting-a-coding-tinterview-13cb734eccda?source=rss-224bb12b307b------2)
 - [Preparing for a Technical Interview](https://medium.com/@adrian.td96/preparing-for-a-technical-interview-8e73fd51347a?source=rss-224bb12b307b------2)
-- [JavaScript Interview Preparation](https://medium.com/@adrian.td96/javascript-interview-preparation-9ba37da8f43?source=rss-224bb12b307b------2)
-- [What I Learned Contributing to Open-Source](https://medium.com/@adrian.td96/what-i-learned-contributing-to-open-source-ba8652cb00d?source=rss-224bb12b307b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me!</h3>

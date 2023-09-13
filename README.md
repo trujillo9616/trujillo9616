@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Adrian Trujillo</h1>
 <h3 align="center">A passionate developer from Mexico 🇲🇽</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trujillo9616" alt="trujillo9616" /></a> </p>
-
 -   🔭 I’m currently working on **Salesloft**
 
 -   🌱 I’m currently learning **Ruby and Angular.**

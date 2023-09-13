@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trujillo9616" alt="trujillo9616" /></a> </p>
 
--   🔭 I’m currently working on **Encora**
+-   🔭 I’m currently working on **Salesloft**
 
--   🌱 I’m currently learning **React and Data Structures.**
+-   🌱 I’m currently learning **Ruby and Angular.**
 
 -   📝 I regularly write articles on [Medium](https://medium.com/@adrian.td96)
 
--   💬 Ask me about **Python, ML, JavaScript and Web Development**
+-   💬 Ask me about **JavaScript, TypeScript, GraphQL and Ruby**
 
 -   📫 How to reach me **adrian.td96@gmail.com**
 
